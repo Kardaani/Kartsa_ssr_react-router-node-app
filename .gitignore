@@ -1,4 +1,7 @@
 ## .gitignore
 build
 node_modules
+<<<<<<< HEAD
 coverage // when I run my tests (jest), I also generate test coverage reports
+=======
+>>>>>>> 8478cfc76c40a4ed42a4c04cc7f1dbafa479e142

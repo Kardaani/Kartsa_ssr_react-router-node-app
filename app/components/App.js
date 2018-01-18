@@ -1,4 +1,5 @@
 import React from 'react';
+<<<<<<< HEAD
 import {
 	BrowserRouter as Router,
 	Redirect,
@@ -25,3 +26,9 @@ export default function App(props) {
 };
 
 
+=======
+
+export default function App() {
+     return <div>Your React Node app is set up!</div>
+};
+>>>>>>> 8478cfc76c40a4ed42a4c04cc7f1dbafa479e142
